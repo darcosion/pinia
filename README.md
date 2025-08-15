@@ -11,6 +11,8 @@
 </p>
 <br/>
 
+Note : this is a custom version of the original Pinia project with devtools removed for compatibility on ESM files.
+
 # Pinia
 
 > Intuitive, type safe and flexible Store for Vue
